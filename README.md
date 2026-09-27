@@ -1,16 +1,37 @@
-## Hi there 👋
+Hi, I'm Sri. I am an Aspiring Data Analyst and Business Intelligence professional focused on turning data into clear business insights and actionable decisions. 
 
-<!--
-**Sri271202/sri271202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Skills:
 
-Here are some ideas to get you started:
+*SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Python
+
+*Power BI
+
+*Tableau
+
+*Excel
+
+*Salesforce CRM
+
+*SAP SD
+
+*Jira
+
+Featured Projects:
+
+I’m currently building and improving projects involving SQL, Power BI, Tableau, Python, and business analytics.
+
+Currently Working On:
+
+*Building end-to-end data analytics projects
+
+*Improving my professional SQL and Python skills
+
+*Creating professional Power BI dashboards
+
+*Developing strong analytical knowledge to apply in tools such as Databricks and AWS
+
+Connect With Me:
+
+LinkedIn: https://www.linkedin.com/in/sri-kovirineni-40a2a42bb/
