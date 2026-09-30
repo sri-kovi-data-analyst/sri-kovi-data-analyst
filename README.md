@@ -2,7 +2,7 @@ Hi, I'm Sri
 
 Data Analyst | Business Intelligence | SQL | Python | Power BI | Tableau
 
-I’m a data analyst focused on transforming raw data into clear insights, dashboards, and business recommendations. I’m currently building end-to-end analytics projects using SQL, Python, Power BI, and Tableau.
+I’m a data analyst specializing in transforming complex datasets into actionable insights that support smarter business decisions. I build end-to-end analytics solutions using SQL, Python, Power BI, and Tableau, with a focus on creating insightful dashboards, uncovering trends, and translating analysis into practical business recommendations.
 
 ## Technical Skills
 
